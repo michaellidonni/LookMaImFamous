@@ -13,6 +13,9 @@ h1 {
 
 h4 {
     color: white; 
+    font-family: "nicholas", sans-serif;
+font-weight: 700;
+font-style: normal;
 }
 .Gengis-Khan {
     width: 20%
@@ -79,6 +82,9 @@ h4 {
 .carousel-caption {
     color: white;
     background-color: rgb(0, 0, 0, 0.8);
+    font-family: "nicholas", sans-serif;
+    font-weight: 700;
+    font-style: normal;
 }
 
 footer {
@@ -87,4 +93,11 @@ footer {
   padding: 10px;
   background-color: #112222;
   color: transparent;
+}
+
+.card-text {
+    font-family: "nicholas", sans-serif;
+font-weight: 700;
+font-style: normal;
+text-align: center;
 }
